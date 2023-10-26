@@ -1,4 +1,5 @@
 ## Модель автозаправочной станции
+[model](https://github.com/vkharitonov19/Simulation-Modeling-Systems/blob/main/Gas%20station/gas_station.alp)
 ### Инструменты
 AnyLogic
 ### Описание проекта
